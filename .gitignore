@@ -1,0 +1,10 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+crash.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
